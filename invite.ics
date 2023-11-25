@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:8cQJ0Q5NqQsjUVVHGE0W8
+SUMMARY:Twilio Fourth Quarter 2022 Earnings Conference Call
+DTSTAMP:20230215T165000Z
+DTSTART:20230215T220000Z
+DTEND:20230215T230000Z
+DESCRIPTION:\n     \nYou have successfully registered for the Twilio Fourth
+	 Quarter 2022 Earnings Conference Call\n    \nThis event will take place o
+	n February 15\, 2023 at 5:00 PM\n    \nIf you have a Q4 Login account OR o
+	pted in to receive emails\, you will receive a reminder on the day of the 
+	event\, and can access the webcast up to 15 minutes before the start time.
+	 Find access details below:\n    \nWebcast Link: <a href=https://events.q4
+	inc.com/attendee/961163534?hasPreRegistered=true>https://events.q4inc.com/
+	attendee/961163534?hasPreRegistered=true</a>\n    \nEmail: fcjbtcap@gmail.
+	com\n    \nReview our <a href=https://help.events.q4inc.com/en/general/net
+	work-and-hardware-requirements.html>Network and Hardware Requirements</a> 
+	to make sure your device meets the minimum requirements to view this webca
+	st.
+URL:https://events.q4inc.com/attendee/961163534?hasPreRegistered=true
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html><html><body>
+    <p>You have su
+	ccessfully registered for the Twilio Fourth Quarter 2022 Earnings Conferen
+	ce Call</p>
+    <p>This event will take place on February 15, 2023 at 5:00
+	 PM</p>
+    <p>If you have a Q4 Login account OR opted in to receive email
+	s, you will receive a reminder on the day of the event, and can access the
+	 webcast up to 15 minutes before the start time. Find access details below
+	:</p>
+    <p>Webcast Link: <a href=https://events.q4inc.com/attendee/96116
+	3534?hasPreRegistered=true>https://events.q4inc.com/attendee/961163534?has
+	PreRegistered=true</a></p>
+    <p>Email: fcjbtcap@gmail.com</p>
+    <p>Rev
+	iew our <a href=https://help.events.q4inc.com/en/general/network-and-hardw
+	are-requirements.html>Network and Hardware Requirements</a> to make sure y
+	our device meets the minimum requirements to view this webcast.</p>
+   </b
+	ody></html>
+END:VEVENT
+END:VCALENDAR
